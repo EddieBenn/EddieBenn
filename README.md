@@ -62,6 +62,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+## GitHub Stats ⚡
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiebenn&show_icons=true&locale=en&layout=compact&bg_color=1b2430&text_color=32CD32" alt="eddiebenn" /></p>
 
