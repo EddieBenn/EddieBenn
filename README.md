@@ -64,8 +64,8 @@
 
 ## GitHub Stats ⚡
 
-<div><img align="left" src="https://github-readme-stats.herokuapp.com/api/top-langs?username=eddiebenn&show_icons=true&locale=en&layout=compact&bg_color=1b2430&text_color=32CD32" alt="eddiebenn" /></div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiebenn&show_icons=true&locale=en&layout=compact&bg_color=1b2430&text_color=32CD32" alt="eddiebenn" /></p>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.herokuapp.com/api?username=eddiebenn&show_icons=true&locale=en&bg_color=1b2430&text_color=32CD32" alt="eddiebenn" /></div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddiebenn&show_icons=true&locale=en&bg_color=1b2430&text_color=32CD32" alt="eddiebenn" /></p>
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiebenn&background=1b2430&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE&sideLabels=32CD32&dates=70A5FD&currStreakNum=BF91F3&sideNums=38BDAE" alt="eddiebenn" /></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiebenn&background=1b2430&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE&sideLabels=32CD32&dates=70A5FD&currStreakNum=BF91F3&sideNums=38BDAE" alt="eddiebenn" /></p>
