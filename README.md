@@ -1,4 +1,5 @@
-![MasterHead](https://res.cloudinary.com/dixoaggbe/image/upload/v1725019281/GitHub.gif)
+<div> <img src="https://res.cloudinary.com/dixoaggbe/image/upload/v1725019281/GitHub.gif" alt="MasterHead" /> </div>
+
 <h1 align="center">Hi 👋, I'm Edidiong Ndaobong</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
