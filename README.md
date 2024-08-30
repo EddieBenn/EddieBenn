@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Edidiong Ndaobong</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-<div> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer" align="right" width="400" /> </div>
+<div> <img src="https://res.cloudinary.com/dixoaggbe/image/upload/v1725020184/Programmerimg.gif" alt="Programmer" align="right" width="400" /> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddiebenn&label=Profile%20views&color=0e75b6&style=flat" alt="eddiebenn" /> </p>
 
