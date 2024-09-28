@@ -10,6 +10,8 @@
 
 - 💼 I’m currently working at [MAX](https://www.max.ng)
 
+- 🔭 View my [Portfolio](https://edidiong-benn-portfolio.vercel.app)
+
 - 🔭 I’m currently working on **Royal Events App**
 
 - 🌱 I’m currently learning **Amazon Web Services**
