@@ -10,7 +10,7 @@
 
 - 💼 I’m currently working at [MAX](https://www.max.ng)
 
-- 👀 View my [Portfolio](https://edidiong-benn-portfolio.vercel.app)
+- 👀 Take a look at my [Portfolio](https://edidiong-benn-portfolio.vercel.app)
 
 - 🔭 I’m currently working on **Royal Events App**
 
