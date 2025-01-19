@@ -12,6 +12,8 @@
 
 - 👀 Take a look at my [Portfolio](https://edidiong-benn-portfolio.vercel.app)
 
+- 📢 Watch my [Video Resume](https://drive.google.com/file/d/1Qa3-juJJjKQI1cngEwlnluY_TTRtm8Fn/view)
+
 - 🔭 I’m currently working on **Royal Events App**
 
 - 🌱 I’m currently learning **Amazon Web Services**
